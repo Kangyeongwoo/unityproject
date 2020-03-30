@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/loginscene/login.unity
+    guid: 4883c4f58b4424a81b2ccd9658846ee7
+  - enabled: 1
+    path: Assets/Scenes/loginscene/login_robotwar.unity
+    guid: 6acf614fdcd59474ea6a7f67ef0797ea
+  - enabled: 1
+    path: Assets/Scenes/loginscene/login_robotwar_signup.unity
+    guid: 37a9d4fc64f0247a898a4a14dd181673
+  - enabled: 1
+    path: Assets/Scenes/mainscene/mainscene.unity
+    guid: a3535ad0c8e7d46ef93609cc5c7d0486
+  - enabled: 1
+    path: Assets/Scenes/pvp_scene/Pvpready.unity
+    guid: 44cc2b2cdec694902b23f3b6ed01355e
+  - enabled: 1
+    path: Assets/Scenes/pvp_scene/Pvpscene.unity
+    guid: 323a836d250284113962d61de7b35905
+  - enabled: 1
+    path: Assets/Scenes/equipment_scene/equipmentscene.unity
+    guid: 8ff1e5dbc5cc44f2081feb0a0cf98f33
+  - enabled: 1
+    path: Assets/Scenes/single_scene/singlescene1_1.unity
+    guid: 8d5febabb025d4cf7ba02b6b85e8f204
+  - enabled: 1
+    path: Assets/Scenes/single_scene/singlescene1_2.unity
+    guid: 4700ab6d6009b4477af380e365ac88ce
+  - enabled: 1
+    path: Assets/Scenes/single_scene/singlescene1_3.unity
+    guid: 0c90f14db3ea441d5b15fc11a3d01eba
+  - enabled: 1
+    path: Assets/Scenes/single_scene/singlescene2_1.unity
+    guid: 51d8d1dc4f84b4af1b4ab38a21678037
+  - enabled: 1
+    path: Assets/Scenes/single_scene/singlescene2_2.unity
+    guid: a042b2f880864403b90c290fd5255f50
+  - enabled: 1
+    path: Assets/Scenes/single_scene/singlescene2_3.unity
+    guid: 64557b94794da4ab38583901ed1e48fb
+  - enabled: 1
+    path: Assets/Scenes/shop_scene/shopscene.unity
+    guid: fd2ccb4b595184809a50c5bea6fadba7
+  - enabled: 1
+    path: Assets/Scenes/boss_scene/bosssceneready.unity
+    guid: 1916eb11e500c4f398695e41f7834127
+  - enabled: 1
+    path: Assets/Scenes/boss_scene/bossscenestart.unity
+    guid: b8c07c6328e5743dfb6f34a56da264cd
+  m_configObjects: {}
