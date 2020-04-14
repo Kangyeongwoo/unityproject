@@ -3,14 +3,14 @@
 싱글모드, 1:1모드, 3명 협동 모드가 가능한 모바일 슈팅 게임
 
 <div>
-  <img width="282" alt="스크린샷 2020-04-15 오전 2 47 10" src="https://user-images.githubusercontent.com/39517457/79269334-3f1aa280-7ed7-11ea-9ae4-51a3b07d74a8.png">
-<img width="286" alt="스크린샷 2020-04-15 오전 2 49 56" src="https://user-images.githubusercontent.com/39517457/79269352-46da4700-7ed7-11ea-932c-3814edb1b3b0.png">
-<img width="625" alt="스크린샷 2020-04-15 오전 4 31 27" src="https://user-images.githubusercontent.com/39517457/79269366-4b9efb00-7ed7-11ea-817c-d9b56203cf07.png">
-<img width="926" alt="스크린샷 2020-04-15 오전 5 04 37" src="https://user-images.githubusercontent.com/39517457/79269371-4e99eb80-7ed7-11ea-8a42-03dca1999eb7.png">
-<img width="625" alt="스크린샷 2020-04-15 오전 4 30 17" src="https://user-images.githubusercontent.com/39517457/79269386-58235380-7ed7-11ea-8e93-4ae4f0e02245.png">
-<img width="926" alt="스크린샷 2020-04-15 오전 5 04 28" src="https://user-images.githubusercontent.com/39517457/79269392-5a85ad80-7ed7-11ea-8d62-f3415fb6c173.png">
-<img width="312" alt="스크린샷 2020-04-15 오전 2 48 53" src="https://user-images.githubusercontent.com/39517457/79269401-5eb1cb00-7ed7-11ea-8832-b5e9e0087e46.png">
-<img width="312" alt="스크린샷 2020-04-15 오전 2 47 57" src="https://user-images.githubusercontent.com/39517457/79269411-61acbb80-7ed7-11ea-90b8-60cd03a0c620.png">
+  <img width="200" alt="스크린샷 2020-04-15 오전 2 47 10" src="https://user-images.githubusercontent.com/39517457/79269334-3f1aa280-7ed7-11ea-9ae4-51a3b07d74a8.png">
+<img width="200" alt="스크린샷 2020-04-15 오전 2 49 56" src="https://user-images.githubusercontent.com/39517457/79269352-46da4700-7ed7-11ea-932c-3814edb1b3b0.png">
+<img width="300" alt="스크린샷 2020-04-15 오전 4 31 27" src="https://user-images.githubusercontent.com/39517457/79269366-4b9efb00-7ed7-11ea-817c-d9b56203cf07.png">
+<img width="400" alt="스크린샷 2020-04-15 오전 5 04 37" src="https://user-images.githubusercontent.com/39517457/79269371-4e99eb80-7ed7-11ea-8a42-03dca1999eb7.png">
+<img width="300" alt="스크린샷 2020-04-15 오전 4 30 17" src="https://user-images.githubusercontent.com/39517457/79269386-58235380-7ed7-11ea-8e93-4ae4f0e02245.png">
+<img width="400" alt="스크린샷 2020-04-15 오전 5 04 28" src="https://user-images.githubusercontent.com/39517457/79269392-5a85ad80-7ed7-11ea-8d62-f3415fb6c173.png">
+<img width="200" alt="스크린샷 2020-04-15 오전 2 48 53" src="https://user-images.githubusercontent.com/39517457/79269401-5eb1cb00-7ed7-11ea-8832-b5e9e0087e46.png">
+<img width="200" alt="스크린샷 2020-04-15 오전 2 47 57" src="https://user-images.githubusercontent.com/39517457/79269411-61acbb80-7ed7-11ea-90b8-60cd03a0c620.png">
 
   </div>
 
