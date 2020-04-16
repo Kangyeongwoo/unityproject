@@ -29,7 +29,7 @@
 * Unity - C#  
   
 ### **Server**  
-* Cloud Server - 
+* Cloud Server - AWS EC2
 * Java
 * PHP
 * MySQL
